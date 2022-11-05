@@ -1,0 +1,21 @@
+#div_1{
+background-color: lightskyblue;
+
+}
+
+#div_3{
+background-color: lightskyblue;
+
+}
+
+.button4
+ {border-radius: 12px;}
+
+ #div_1 {
+    text-shadow: 2px 2px greenyellow;
+  }
+
+  #main_div{
+
+    background-image: radial-gradient(cyan, lightblue , blue );
+  }
